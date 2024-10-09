@@ -116,9 +116,10 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+}
+.section-list {
   background-color: #ffffff;
 }
-
 .section-title {
   font-weight: 700;
   font-size: 36px;
@@ -127,7 +128,6 @@ body {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
-  background-color: #ffffff;
 }
 
 .gallery-list-title {
