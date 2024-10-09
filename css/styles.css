@@ -16,7 +16,7 @@ body {
   text-transform: uppercase;
   color: #4d5ae5;
   text-decoration: none;
-  line-height: 1.17; /* Визначення простору між рядками для логотипу */
+  line-height: 1.17;
 }
 
 .logo-header-blue {
@@ -74,13 +74,10 @@ body {
 
 .btn-banner {
   font-family: "Roboto", sans-serif;
-  padding: 16px 32px;
   background: #4d5ae5;
-  border-radius: 4px;
   font-weight: 500;
   font-size: 16px;
   letter-spacing: 0.04em;
-  border: none;
   line-height: 1.5;
   color: #ffffff;
   cursor: pointer;
@@ -106,7 +103,7 @@ body {
 .section-team-text {
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 0.02em; /* Відстань між літерами */
+  letter-spacing: 0.02em;
   color: #434455;
 }
 
