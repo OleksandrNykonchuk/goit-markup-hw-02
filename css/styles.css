@@ -28,8 +28,8 @@ body {
 .link {
   text-decoration: none;
 }
-.site-nav :hover,
-.site-nav link:focus {
+.site-nav .link:hover,
+.site-nav .link:focus {
   color: #404bbf;
 }
 .contacts.link {
@@ -42,7 +42,7 @@ body {
   color: #434455;
 }
 .site-nav .contacts.link:hover,
-.site-nav link:focus {
+.site-nav .contacts.link:focus {
   color: #404bbf;
 }
 .hero {
@@ -97,10 +97,6 @@ body {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
-}
-.section-team-text {
-  font-size: 16px;
-  line-height: 1.5;
 }
 .gallery-list-title {
   font-weight: 500;
