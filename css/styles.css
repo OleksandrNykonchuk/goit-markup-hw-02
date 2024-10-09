@@ -100,6 +100,9 @@ body {
   text-align: left;
   color: #2e2f42;
 }
+.section-team {
+  background-color: #f4f4fd;
+}
 .card-title {
   font-weight: 500; /* Виправлено для заголовків */
   font-size: 20px; /* Розмір шрифту */
