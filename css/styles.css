@@ -11,6 +11,7 @@ body {
   text-transform: uppercase;
   color: #4d5ae5;
   text-decoration: none;
+  line-height: 1.17; /* Визначення простору між рядками для логотипу */
 }
 .logo-header-blue {
   color: #2e2f42;
