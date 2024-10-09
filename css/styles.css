@@ -3,6 +3,7 @@ body {
   color: #434455;
   background-color: #ffffff;
 }
+
 .logo-header {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
@@ -13,12 +14,15 @@ body {
   text-decoration: none;
   line-height: 1.17; /* Визначення простору між рядками для логотипу */
 }
+
 .logo-header-blue {
   color: #2e2f42;
 }
+
 .list {
   list-style: none;
 }
+
 .site-nav {
   font-weight: 500;
   font-size: 16px;
@@ -26,13 +30,16 @@ body {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
+
 .link {
   text-decoration: none;
 }
+
 .site-nav .link:hover,
 .site-nav .link:focus {
   color: #404bbf;
 }
+
 .contacts.link {
   font-family: Roboto;
   font-size: 16px;
@@ -42,26 +49,29 @@ body {
   text-align: left;
   color: #434455;
 }
+
 .site-nav .contacts.link:hover,
 .site-nav .contacts.link:focus {
   color: #404bbf;
 }
+
 .hero {
   color: #ffffff;
   background-color: #2e2f42;
   text-align: center;
 }
+
 .section-banner-title {
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
 }
+
 .btn-banner {
   font-family: "Roboto", sans-serif;
   padding: 16px 32px;
   background: #4d5ae5;
-  box-shadow: 0px 4px 4px 0px #00000026;
   border-radius: 4px;
   font-weight: 500;
   font-size: 16px;
@@ -71,13 +81,16 @@ body {
   color: #ffffff;
   cursor: pointer;
 }
+
 .hero .btn-banner:hover,
 .hero .btn-banner:focus {
   background-color: #404bbf;
 }
+
 .features-list {
   text-align: left;
 }
+
 .card-title {
   font-weight: 500;
   font-size: 20px;
@@ -85,11 +98,13 @@ body {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
+
 .section-team-text {
   font-size: 16px;
   line-height: 1.5;
   color: #434455;
 }
+
 .section-title {
   font-weight: 700;
   font-size: 36px;
@@ -99,6 +114,7 @@ body {
   text-transform: capitalize;
   color: #2e2f42;
 }
+
 .gallery-list-title {
   font-weight: 500;
   font-size: 20px;
@@ -106,12 +122,15 @@ body {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
+
 .gallery-list-text {
   color: #434455;
 }
+
 .section-address {
   color: #e7e9fc;
 }
+
 .logo-footer {
   font-family: "Raleway";
   text-decoration: none;
@@ -119,9 +138,11 @@ body {
   line-height: 1.2;
   text-transform: uppercase;
 }
+
 .logo-header-white {
   color: #f4f4fd;
 }
+
 .Dark-bg {
   color: #ffffff;
   background-color: #2e2f42;
