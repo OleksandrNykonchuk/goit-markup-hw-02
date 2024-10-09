@@ -75,7 +75,6 @@ body {
 .btn-banner {
   font-family: "Roboto", sans-serif;
   background: #4d5ae5;
-
   font-weight: 500;
   font-size: 16px;
   letter-spacing: 0.04em;
@@ -94,17 +93,17 @@ body {
 }
 
 .card-title {
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
+  font-weight: 500; /* Виправлено для заголовків */
+  font-size: 20px; /* Розмір шрифту */
+  line-height: 1.2; /* Висота рядка */
+  letter-spacing: 0.02em; /* Відстань між літерами */
+  color: #2e2f42; /* Колір тексту */
 }
 
 .section-team-text {
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 0.02em; /* Відстань між літерами */
+  letter-spacing: 0.02em;
   color: #434455;
 }
 
@@ -119,11 +118,11 @@ body {
 }
 
 .gallery-list-title {
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
+  font-weight: 500; /* Виправлено для заголовків */
+  font-size: 20px; /* Розмір шрифту */
+  line-height: 1.2; /* Висота рядка */
   letter-spacing: 0.02em; /* Відстань між літерами */
-  color: #2e2f42;
+  color: #2e2f42; /* Колір тексту */
 }
 
 .gallery-list-text {
@@ -132,7 +131,7 @@ body {
 
 .section-address {
   color: #e7e9fc;
-  background-color: #2e2f42;
+  background-color: #2e2f42; /* Фоновий колір футера */
 }
 
 .logo-footer {
@@ -144,9 +143,9 @@ body {
 }
 
 .logo-header-white {
-  color: #f4f4fd;
+  color: #f4f4fd; /* Колір тексту */
 }
 
 .Dark-bg {
-  background-color: #2e2f42;
+  background-color: #2e2f42; /* Фоновий колір для темної секції */
 }
