@@ -91,7 +91,15 @@ body {
 .features-list {
   text-align: left;
 }
-
+.example-header {
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  text-align: left;
+  color: #2e2f42;
+}
 .card-title {
   font-weight: 500; /* Виправлено для заголовків */
   font-size: 20px; /* Розмір шрифту */
